@@ -1,12 +1,11 @@
 <div align="center">
   <h1>👋 Hola, soy Misael</h1>
-  <h3>Desarrollador Full Stack | 5.5 años de experiencia</h3>
+  <h3>Desarrollador Full Stack | 5.5 años de experiencia</hh3
 
-<!-- Banner con varias IDEs -->
-  <!-- Banner Profesional con IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.json" 
-       alt="Banner IDEs" 
-       width="100%" style="border-radius: 15px; margin: 20px 0;">
+  <img src="https://via.placeholder.com/1200x350/0A2540/00FFAA?text=VS+Code+•+IntelliJ+IDEA+•+PyCharm+•+Visual+Studio+•+WebStorm+•+Neovim" 
+       alt="Banner IDEs y Editores de Código" 
+       width="100%" style="border-radius: 15px; margin: 15px 0; box-shadow: 0 4px 15px rgba(0,255,170,0.3);">
+
 
 
   <p>
