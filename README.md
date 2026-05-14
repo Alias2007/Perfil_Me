@@ -3,9 +3,10 @@
   <h3>Desarrollador Full Stack | 5.5 años de experiencia</h3>
 
 <!-- Banner con varias IDEs -->
-  <img src="https://via.placeholder.com/1200x400/0A2540/FFFFFF?text=VS+Code+%7C+IntelliJ+%7C+PyCharm+%7C+Visual+Studio+%7C+Neovim" 
-       alt="Banner - IDEs y Editores" 
-       width="100%" style="border-radius: 12px; margin: 20px 0;">
+  <!-- Banner Profesional con IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.json" 
+       alt="Banner IDEs" 
+       width="100%" style="border-radius: 15px; margin: 20px 0;">
 
 
   <p>
