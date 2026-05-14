@@ -2,7 +2,11 @@
   <h1>👋 Hola, soy Misael</h1>
   <h3>Desarrollador Full Stack | 5.5 años de experiencia</h3>
 
-  ![Banner](https://via.placeholder.com/1200x400/0A2540/00FF88?text=Misael+Dev+-+Full+Stack+Engineer)
+<!-- Banner con varias IDEs -->
+  <img src="https://via.placeholder.com/1200x400/0A2540/FFFFFF?text=VS+Code+%7C+IntelliJ+%7C+PyCharm+%7C+Visual+Studio+%7C+Neovim" 
+       alt="Banner - IDEs y Editores" 
+       width="100%" style="border-radius: 12px; margin: 20px 0;">
+
 
   <p>
     <strong>Apasionado por crear soluciones eficientes y de alta calidad.</strong>
