@@ -8,7 +8,7 @@
     <strong>Apasionado por crear soluciones eficientes y de alta calidad.</strong>
   </p>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/mr-misa)
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/alias2007)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
 </div>
 
